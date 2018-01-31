@@ -16,7 +16,7 @@ public class TestClass {
 
     @Test
     public void testLog() {
-        logger.info("info4234   得分v111");
+        logger.info("info4234   得分v111111");
     }
 
 }
